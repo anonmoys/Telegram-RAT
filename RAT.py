@@ -3,7 +3,7 @@ from API import *
 
 # Token/ID
 TelegramToken = '5059502708:AAHbUFal92mFTxs5VElYk7cm5gIK2c6M_AM'
-TelegramChatID = ''
+TelegramChatID = '1511373882'
 
 
 # Run the script as administrator
